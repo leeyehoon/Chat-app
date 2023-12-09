@@ -1,6 +1,5 @@
 # Chat Application
 
-## 작품개요 - 제작동기
 ![Image](./src/img_window.jpg)
 - Chat Application
  : TCP를 공부하기 위해 만든 네트워크로 송수신하여 대화를 주고 받을 수 있는 간단한 어플리케이션.
