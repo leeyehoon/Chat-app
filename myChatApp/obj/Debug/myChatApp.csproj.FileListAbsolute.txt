@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\myChatApp\myChatApp\bin\Debug\myChatApp.exe.config
+C:\Users\user\source\repos\myChatApp\myChatApp\bin\Debug\myChatApp.exe
+C:\Users\user\source\repos\myChatApp\myChatApp\bin\Debug\myChatApp.pdb
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.Form1.resources
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.Form2.resources
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.Properties.Resources.resources
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.exe
+C:\Users\user\source\repos\myChatApp\myChatApp\obj\Debug\myChatApp.pdb
